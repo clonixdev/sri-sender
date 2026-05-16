@@ -1,5 +1,6 @@
 {
-  "name": "dazza-dev/sri-sender",
+  "name": "clonixdev/sri-sender",
+  "version": "1.0.1",
   "description": "Paquete para hacer recepción y autorización de XML firmados (Factura, Guía de remisión, Nota crédito, Nota débito y Comprobante de retención) a los servidores SRI (Ecuador).",
   "keywords": [
     "sri",

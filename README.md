@@ -5,7 +5,7 @@ Paquete para hacer recepción y autorización de XML firmados (Factura, Guía de
 ## Instalación
 
 ```bash
-composer require dazza-dev/sri-sender
+composer require clonixdev/sri-sender
 ```
 
 ## Uso
